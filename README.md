@@ -8,5 +8,6 @@ choco install you-get -y
 choco install mpvget -y
 ```
 
-1. run mpvget.reg 
+1. run ``` C:\ProgramData\Chocolatey\lib\mpvget\tools\mpvget\mpvget.reg ``` 
 2. look README.html
+3. have fun
