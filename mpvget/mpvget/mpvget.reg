@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\MPVYOUGET]
+@="URL:MPVYOUGET Protocol Handler"
+"URL Protocol"=""
+
+[HKEY_CLASSES_ROOT\MPVYOUGET\shell]
+
+[HKEY_CLASSES_ROOT\MPVYOUGET\shell\open]
+
+[HKEY_CLASSES_ROOT\MPVYOUGET\shell\open\command]
+@="C:\\ProgramData\\Chocolatey\\lib\\you-get\\tools\\mpvget.bat %1"
