@@ -11,3 +11,16 @@ choco install mpvget -y
 1. run ``` C:\ProgramData\Chocolatey\lib\mpvget\tools\mpvget\mpvget.reg ``` 
 2. look README.html
 3. have fun
+
+[you-get](https://github.com/soimort/you-get)
+[mpv](https://mpv.io/manual/stable/) 
+
+```
+ [ ] 
+ Decrease/increase current playback speed by 10%
+
+ LEFT  RIGHT
+ Seek backward/forward 5 seconds. Shift+arrow does a 1 second  
+
+
+```
