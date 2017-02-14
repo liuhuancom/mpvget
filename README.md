@@ -22,5 +22,26 @@ choco install mpvget -y
  LEFT  RIGHT
  Seek backward/forward 5 seconds. Shift+arrow does a 1 second  
 
+ 1 and 2
+ Adjust contrast
+ 3 and 4
+ Adjust brightness
+ 5 and 6
+ Adjust gamma.
+ 7 and 8
+ Adjust saturation.
+ 9 0
+ Decrease/increase volume
+
+
+ s
+ Take a screenshot
+ S
+ Take a screenshot, without subtitles. (Whether this works depends on VO driver support.)
+
+
+
+
+
 
 ```
