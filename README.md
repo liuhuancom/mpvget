@@ -5,7 +5,7 @@
 ```
 choco install mpv -y
 choco install you-get -y
-choco install mpvget -y
+choco install mpvget -version 1.1
 ```
 
 1. run ``` C:\ProgramData\Chocolatey\lib\mpvget\tools\mpvget\mpvget.reg ``` 
