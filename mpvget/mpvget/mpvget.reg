@@ -9,4 +9,4 @@ Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\MPVYOUGET\shell\open]
 
 [HKEY_CLASSES_ROOT\MPVYOUGET\shell\open\command]
-@="C:\\ProgramData\\Chocolatey\\lib\\you-get\\tools\\mpvget.bat %1"
+@="C:\\ProgramData\\Chocolatey\\lib\\mpvget\\tools\\mpvget\\mpvget.bat %1"
